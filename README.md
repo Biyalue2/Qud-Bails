@@ -32,7 +32,7 @@ To run the example script, download or clone the repo and then type the followin
 ## Install
 
 Use the stable version:
-```
+``
 yarn add @whiskeysockets/baileys
 ```
 
